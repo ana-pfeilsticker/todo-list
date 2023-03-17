@@ -1,0 +1,28 @@
+.TodoIten{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 3px;
+    margin-right: 3px;
+    justify-content: space-between;
+    border: 3px solid black;
+    text-align: center;
+
+}
+
+.realizacao{
+    display: flex;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.EditaExclui{
+    display: flex;
+    float: right;
+    margin: 10px;
+}
+
